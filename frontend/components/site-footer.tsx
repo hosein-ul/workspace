@@ -67,7 +67,7 @@ export function SiteFooter() {
                   rel="noopener noreferrer"
                   className="text-(--ink-2) hover:text-(--ink) link-underline"
                 >
-                  Twitter · @XHooks_protocol
+                  Twitter · @XHooks_build
                 </a>
               </li>
               <li>
@@ -77,7 +77,7 @@ export function SiteFooter() {
                   rel="noopener noreferrer"
                   className="text-(--ink-2) hover:text-(--ink) link-underline"
                 >
-                  Twitter · @andy1eth
+                  Twitter · @andy1eth · Founder
                 </a>
               </li>
             </ul>
