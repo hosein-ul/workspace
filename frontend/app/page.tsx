@@ -371,7 +371,7 @@ export default function LandingPage() {
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 border border-(--rule) bg-(--surface-0) px-5 py-3 font-mono text-[11px] uppercase tracking-[0.16em] text-(--ink) hover:bg-(--surface-2)"
                 >
-                  <XIcon className="h-3.5 w-3.5" /> @XHooks_protocol
+                  <XIcon className="h-3.5 w-3.5" /> @XHooks_build
                 </a>
                 <Link
                   href="/contracts"
@@ -752,7 +752,7 @@ const FAQ: { q: string; a: React.ReactNode }[] = [
           rel="noopener noreferrer"
           className="text-(--ink) link-underline"
         >
-          @XHooks_protocol
+          @XHooks_build
         </a>{" "}
         for release notes and protocol updates.
       </>
