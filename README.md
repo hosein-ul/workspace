@@ -5,7 +5,9 @@
 > tranching, sealed-bid batch auctions, and collateral-backed limit orders —
 > composed into a single registry and exposed through one PoolManager.
 
-**Live site:** [xhooks-protocol.netlify.app](https://xhooks-protocol.netlify.app) · **Project:** [@XHooks\_protocol](https://x.com/XHooks_protocol) · **Author:** [@andy1eth](https://x.com/andy1eth)
+**Live site:** [xhooks-protocol.netlify.app](https://xhooks-protocol.netlify.app) .‌‌
+·**X account:** [@XHooks_build](https://x.com/XHooks_build) ‌‌
+‌‌‌**Author & Founder:** [@andy1eth](https://x.com/andy1eth)
 
 ---
 
